@@ -12,9 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Samarp33275102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samarp" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samarp jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarp jain" height="30" width="40" /></a>
-<a href="https://instagram.com/samarpjain1001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samarpjain1001" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@samarp1001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@samarp1001" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samarpjain1001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarp jain" height="30" width="40" /></a>
+<a href="https://instagram.com/samarp1001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samarpjain1001" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Samarp1001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@samarp1001" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/samarp_jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samarp_jain" height="30" width="40" /></a>
 </p>
 
